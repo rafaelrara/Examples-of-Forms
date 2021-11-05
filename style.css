@@ -50,3 +50,19 @@ body {
 label,h3,h2{
     color: white;
 }
+
+input{
+    width: 200px;
+    display: flex;
+}
+
+fieldset{  
+    padding: 1%;
+    width: 50%;
+
+}
+
+.radio{
+    width: 15px;
+
+}
